@@ -3,9 +3,9 @@
 
 [PDF version](https://github.com/contino/terraform-cheatsheet/raw/master/resources/terraform_cheatsheet.pdf)
 
-![](resources/terraform_cheatsheet_1.png)
+![](resources/terraform_cheatsheet_Page_1.png)
 
-![](resources/terraform_cheatsheet_2.png)
+![](resources/terraform_cheatsheet_Page_2.png)
 
 # Other Terraform resources
 
